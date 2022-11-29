@@ -1,0 +1,15 @@
+C:\tools\Guilherme-C#\AjusteSalarial\AjusteSalarial\bin\Debug\net6.0\AjusteSalarial.exe
+C:\tools\Guilherme-C#\AjusteSalarial\AjusteSalarial\bin\Debug\net6.0\AjusteSalarial.deps.json
+C:\tools\Guilherme-C#\AjusteSalarial\AjusteSalarial\bin\Debug\net6.0\AjusteSalarial.runtimeconfig.json
+C:\tools\Guilherme-C#\AjusteSalarial\AjusteSalarial\bin\Debug\net6.0\AjusteSalarial.dll
+C:\tools\Guilherme-C#\AjusteSalarial\AjusteSalarial\bin\Debug\net6.0\AjusteSalarial.pdb
+C:\tools\Guilherme-C#\AjusteSalarial\AjusteSalarial\obj\Debug\net6.0\AjusteSalarial.csproj.AssemblyReference.cache
+C:\tools\Guilherme-C#\AjusteSalarial\AjusteSalarial\obj\Debug\net6.0\AjusteSalarial.GeneratedMSBuildEditorConfig.editorconfig
+C:\tools\Guilherme-C#\AjusteSalarial\AjusteSalarial\obj\Debug\net6.0\AjusteSalarial.AssemblyInfoInputs.cache
+C:\tools\Guilherme-C#\AjusteSalarial\AjusteSalarial\obj\Debug\net6.0\AjusteSalarial.AssemblyInfo.cs
+C:\tools\Guilherme-C#\AjusteSalarial\AjusteSalarial\obj\Debug\net6.0\AjusteSalarial.csproj.CoreCompileInputs.cache
+C:\tools\Guilherme-C#\AjusteSalarial\AjusteSalarial\obj\Debug\net6.0\AjusteSalarial.dll
+C:\tools\Guilherme-C#\AjusteSalarial\AjusteSalarial\obj\Debug\net6.0\refint\AjusteSalarial.dll
+C:\tools\Guilherme-C#\AjusteSalarial\AjusteSalarial\obj\Debug\net6.0\AjusteSalarial.pdb
+C:\tools\Guilherme-C#\AjusteSalarial\AjusteSalarial\obj\Debug\net6.0\AjusteSalarial.genruntimeconfig.cache
+C:\tools\Guilherme-C#\AjusteSalarial\AjusteSalarial\obj\Debug\net6.0\ref\AjusteSalarial.dll

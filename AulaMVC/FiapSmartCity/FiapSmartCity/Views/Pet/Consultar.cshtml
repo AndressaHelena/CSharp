@@ -1,0 +1,31 @@
+﻿@model FiapSmartCity.Models.Pet
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Informações do Pet</title>
+</head>
+<body>
+    <h1>Informações do Pet</h1>
+    <div class="form-horizontal">
+        <hr />
+
+        <div class="form-group">
+            <label><b>Nome do Pet</b></label>
+            <div class="col-md-10">
+                <span>@Model.NomePet</span>
+            </div>
+        </div>        
+        <hr/>
+    </div>
+    <div>
+        <a asp-controller="Pet" asp-action="Index" class="btn btn-warning">Voltar</a>
+    </div>
+
+</body>
+</html>

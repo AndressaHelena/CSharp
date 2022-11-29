@@ -1,0 +1,45 @@
+﻿@model FiapSmartCity.Models.Pet
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Cadastro</title>
+</head>
+<body>
+    <h1>Cadastrar Pet</h1>
+
+    <form asp-action="Cadastrar" asp-controller="Pet" method="post">
+        <div class="form-horizontal">
+            <hr />
+            <!--Trecho de validação para se existe mensagem a ser exibida -->
+            @if (!Html.ViewData.ModelState.IsValid)
+            {
+                    <!--Tag para exibição da lista de erros -->
+                    <div asp-validation-summary="All" class="alert alert-danger"></div>
+            }
+
+            <div class="form-group">
+                <label asp-for="NomePet"class="control-label"></label>
+                <input asp-for="NomePet"class="form-control col-md-4"/>
+                <span asp-validation-for="NomePet"class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="reset" value="Limpar" class="btn btn-secondary btn-default mt-3"/>
+                    <!--HTML Simple para envio dos dados do formulário -->
+                    <input type="submit" value="Cadastrar" class="btn btn-success btn-default mt-3"/>
+                </div>
+            </div>
+            <hr/>
+        </div>
+    </form>
+    <div>
+        <a asp-controller="Pet" asp-action="Index" class="btn btn-warning"> Voltar </a>
+    </div>
+</body>
+</html>

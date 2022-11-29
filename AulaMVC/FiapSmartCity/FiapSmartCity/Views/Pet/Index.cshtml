@@ -1,0 +1,66 @@
+﻿
+@model IEnumerable<FiapSmartCity.Models.Pet>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Pet</title>
+</head>
+<body>
+    <h1>Pet</h1>
+    <p>
+        <!-- uso de TagHelpers para definir o Controller e a Action -->
+        <a class="btn btn-success" asp-controller="Pet" asp-action="Cadastrar">Novo Pet</a>
+    </p>
+
+    <!-- Verifica se a chave "Mensagem" existe no TempData -->
+    @if (@TempData["Mensagem"] != null)
+    {
+            <div class="alert alert-success" role="alert">
+                <!-- Imprime para o usuário a mensagem -->
+        @TempData["Mensagem"]
+            </div>
+    }
+
+
+    <table class="table table table-striped" border="1">
+        <tr>
+            <th>Id</th>
+            <th>Nome do Pet</th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+                <tr>
+                    <td>
+                        <label>@item.IdPet</label>
+                    </td>
+                    <td>
+                        <label>@item.NomePet</label>
+                    </td>
+                    <td>
+
+                        <!-- asp-route-id é usado para informar o Id do Item selecionado. -->
+                        <a asp-controller="Pet"
+                   asp-action="Editar"
+                   asp-route-id="@item.IdPet" class="btn btn-warning ">Editar</a>
+
+                        <a asp-controller="Pet"
+                   asp-action="Consultar"
+                   asp-route-id="@item.IdPet" class="btn btn-info"> Exibir</a>
+
+                        <a asp-controller="Pet"
+                   asp-action="Excluir"
+                   asp-route-id="@item.IdPet" class="btn btn-danger">Excluir</a>
+                    </td>
+                </tr>
+        }
+    </table>
+</body>
+</html>

@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FiapSmartCity
+build_property.RootNamespace = FiapSmartCity
+build_property.ProjectDir = C:\tools\Guilherme-C#\AulaMVC\FiapSmartCity\FiapSmartCity\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\tools\Guilherme-C#\AulaMVC\FiapSmartCity\FiapSmartCity
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/tools/Guilherme-C\#/AulaMVC/FiapSmartCity/FiapSmartCity/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tools/Guilherme-C\#/AulaMVC/FiapSmartCity/FiapSmartCity/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tools/Guilherme-C\#/AulaMVC/FiapSmartCity/FiapSmartCity/Views/Pessoa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVzc29hXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tools/Guilherme-C\#/AulaMVC/FiapSmartCity/FiapSmartCity/Views/Pessoa/Read.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVzc29hXFJlYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tools/Guilherme-C\#/AulaMVC/FiapSmartCity/FiapSmartCity/Views/Pessoa/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVzc29hXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tools/Guilherme-C\#/AulaMVC/FiapSmartCity/FiapSmartCity/Views/Pet/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tools/Guilherme-C\#/AulaMVC/FiapSmartCity/FiapSmartCity/Views/Pet/Read.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0XFJlYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tools/Guilherme-C\#/AulaMVC/FiapSmartCity/FiapSmartCity/Views/Pet/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0XFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tools/Guilherme-C\#/AulaMVC/FiapSmartCity/FiapSmartCity/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tools/Guilherme-C\#/AulaMVC/FiapSmartCity/FiapSmartCity/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tools/Guilherme-C\#/AulaMVC/FiapSmartCity/FiapSmartCity/Views/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tools/Guilherme-C\#/AulaMVC/FiapSmartCity/FiapSmartCity/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tools/Guilherme-C\#/AulaMVC/FiapSmartCity/FiapSmartCity/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-a7bi9alb7e
