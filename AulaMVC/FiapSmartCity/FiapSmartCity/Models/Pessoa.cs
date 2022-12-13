@@ -14,6 +14,8 @@ namespace FiapSmartCity.Models
         public string? NomePessoa { get; set; }
         public string? AddressPessoa { get; set; }
 
+        public Pet? IdPet { get; set; }
+
     }
     
 }
